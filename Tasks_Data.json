@@ -1,0 +1,146 @@
+[
+    {
+        "Id": 1,
+        "Title": "Renew CNIC at NADRA office",
+        "Priority": "High",
+        "Due_Date": "2026-08-06",
+        "Status": "Pending",
+        "Category": "Personal",
+        "Created": "2026-07-31 09:37"
+    },
+    {
+        "Id": 2,
+        "Title": "Pay K-Electric bill",
+        "Priority": "High",
+        "Due_Date": "2026-08-08",
+        "Status": "Pending",
+        "Category": "Personal",
+        "Created": "2026-08-02 09:37"
+    },
+    {
+        "Id": 3,
+        "Title": "Submit CloudExify Project 4",
+        "Priority": "High",
+        "Due_Date": "2026-08-10",
+        "Status": "Pending",
+        "Category": "Work",
+        "Created": "2026-08-05 09:37"
+    },
+    {
+        "Id": 4,
+        "Title": "Prepare CSS current affairs notes",
+        "Priority": "Medium",
+        "Due_Date": "2026-08-10",
+        "Status": "Pending",
+        "Category": "Study",
+        "Created": "2026-08-04 09:37"
+    },
+    {
+        "Id": 5,
+        "Title": "Book Daewoo bus ticket to Lahore",
+        "Priority": "Medium",
+        "Due_Date": "2026-08-12",
+        "Status": "Pending",
+        "Category": "Personal",
+        "Created": "2026-08-07 09:37"
+    },
+    {
+        "Id": 6,
+        "Title": "Revise Python OOP concepts",
+        "Priority": "High",
+        "Due_Date": "2026-08-13",
+        "Status": "Pending",
+        "Category": "Study",
+        "Created": "2026-08-06 09:37"
+    },
+    {
+        "Id": 7,
+        "Title": "Update resume and portfolio",
+        "Priority": "Medium",
+        "Due_Date": "2026-08-15",
+        "Status": "Pending",
+        "Category": "Personal",
+        "Created": "2026-08-03 09:37"
+    },
+    {
+        "Id": 8,
+        "Title": "Attend PTCL internet installation",
+        "Priority": "Low",
+        "Due_Date": "2026-08-16",
+        "Status": "Pending",
+        "Category": "Personal",
+        "Created": "2026-08-08 09:37"
+    },
+    {
+        "Id": 9,
+        "Title": "Complete Grade Management System bugs",
+        "Priority": "High",
+        "Due_Date": "2026-08-11",
+        "Status": "Pending",
+        "Category": "Work",
+        "Created": "2026-08-01 09:37"
+    },
+    {
+        "Id": 10,
+        "Title": "Practice past FPSC papers",
+        "Priority": "Medium",
+        "Due_Date": "2026-08-18",
+        "Status": "Pending",
+        "Category": "Study",
+        "Created": "2026-08-09 09:37"
+    },
+    {
+        "Id": 11,
+        "Title": "Clean up laptop workspace",
+        "Priority": "Low",
+        "Due_Date": "No due date",
+        "Status": "Pending",
+        "Category": "Personal",
+        "Created": "2026-07-29 09:37"
+    },
+    {
+        "Id": 12,
+        "Title": "Submit Expense Tracker Project 1",
+        "Priority": "High",
+        "Due_Date": "2026-07-26",
+        "Status": "Done",
+        "Category": "Work",
+        "Created": "2026-07-21 09:37"
+    },
+    {
+        "Id": 13,
+        "Title": "Submit Grade Management Project 2",
+        "Priority": "High",
+        "Due_Date": "2026-07-31",
+        "Status": "Done",
+        "Category": "Work",
+        "Created": "2026-07-23 09:37"
+    },
+    {
+        "Id": 14,
+        "Title": "Watch Python decorators tutorial",
+        "Priority": "Medium",
+        "Due_Date": "2026-08-04",
+        "Status": "Done",
+        "Category": "Study",
+        "Created": "2026-07-27 09:37"
+    },
+    {
+        "Id": 15,
+        "Title": "Organize CloudExify project files",
+        "Priority": "Low",
+        "Due_Date": "2026-08-05",
+        "Status": "Done",
+        "Category": "Work",
+        "Created": "2026-07-28 09:37"
+    },
+    {
+        "Id": 16,
+        "Title": "Purchase Books for C++",
+        "Priority": "Medium",
+        "Due_Date": "2026-09-30",
+        "Status": "Pending",
+        "Category": "Study",
+        "Created": "2026-08-25 20:30"
+    }
+]
